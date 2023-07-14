@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webpractice/static/css/main.999b4dd0.css",
+    "main.js": "/webpractice/static/js/main.82397a82.js",
+    "index.html": "/webpractice/index.html",
+    "main.999b4dd0.css.map": "/webpractice/static/css/main.999b4dd0.css.map",
+    "main.82397a82.js.map": "/webpractice/static/js/main.82397a82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999b4dd0.css",
+    "static/js/main.82397a82.js"
+  ]
+}
